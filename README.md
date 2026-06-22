@@ -99,6 +99,7 @@
 - [World Bank API](https://data.worldbank.org/developers) – Economic indicators and global development metrics.
 - [OpenWeatherMap](https://openweathermap.org/api) – Weather forecasts, climate data, and sensor readings.
 - [REST Countries API](https://restcountries.com/) – Country metadata for travel, education, and geographic applications.
+- [defend.network CVE API](https://defend.network/api/) – Free, no-auth JSON API of CVEs with CVSS, EPSS, and CISA KEV exploitation status, updated daily (CC BY 4.0).
 - [Public APIs List](https://github.com/public-apis/public-apis) – Curated list of free APIs in multiple categories.
 
 ## Monitoring, Testing & Security Tools
