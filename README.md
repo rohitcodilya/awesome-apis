@@ -110,6 +110,7 @@
 - [Kong Gateway](https://konghq.com/) – API gateway for routing, authentication, and service discovery.
 - [Tyk API Gateway](https://tyk.io/) – Open-source API gateway with analytics and lifecycle management.
 - [Nginx API Gateway](https://www.nginx.com/) – High-performance gateway for API load balancing and security.
+- [Fixzi](https://fixzi.ai) - Monitor API contracts and AI output schemas for breaking changes. Also includes JSON/XML validation, diff, and conversion tools.
 
 ## Learning Resources
 
